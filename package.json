@@ -1,0 +1,26 @@
+{
+  "name": "deamp",
+  "version": "0.0.1",
+  "description": "cleans AMP links",
+  "main": "lib/deamp.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchangrh/deamp.git"
+  },
+  "keywords": [
+    "un-amp"
+  ],
+  "author": "Michael Chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mchangrh/deamp/issues"
+  },
+  "homepage": "https://github.com/mchangrh/deamp#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "node-fetch": "^2.6.1"
+  }
+}
