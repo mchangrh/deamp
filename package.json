@@ -1,6 +1,6 @@
 {
   "name": "deamp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cleans AMP links",
   "main": "lib/deamp.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "un-amp"
   ],
   "author": "Michael Chang",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/mchangrh/deamp/issues"
   },
